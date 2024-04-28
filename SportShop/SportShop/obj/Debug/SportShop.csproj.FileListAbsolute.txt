@@ -1,0 +1,13 @@
+C:\Users\it-student.MEPHI3.001\source\repos\SportShop\SportShop\bin\Debug\SportShop.exe.config
+C:\Users\it-student.MEPHI3.001\source\repos\SportShop\SportShop\bin\Debug\SportShop.exe
+C:\Users\it-student.MEPHI3.001\source\repos\SportShop\SportShop\bin\Debug\SportShop.pdb
+C:\Users\it-student.MEPHI3.001\source\repos\SportShop\SportShop\obj\Debug\SportShop.csproj.AssemblyReference.cache
+C:\Users\it-student.MEPHI3.001\source\repos\SportShop\SportShop\obj\Debug\SportShop.Properties.Resources.resources
+C:\Users\it-student.MEPHI3.001\source\repos\SportShop\SportShop\obj\Debug\SportShop.csproj.GenerateResource.cache
+C:\Users\it-student.MEPHI3.001\source\repos\SportShop\SportShop\obj\Debug\SportShop.csproj.CoreCompileInputs.cache
+C:\Users\it-student.MEPHI3.001\source\repos\SportShop\SportShop\obj\Debug\SportShop.exe
+C:\Users\it-student.MEPHI3.001\source\repos\SportShop\SportShop\obj\Debug\SportShop.pdb
+C:\Users\it-student.MEPHI3.001\source\repos\SportShop\SportShop\obj\Debug\SportShop.FormLogin.resources
+C:\Users\it-student.MEPHI3.001\source\repos\SportShop\SportShop\obj\Debug\SportShop.FormTable.resources
+C:\Users\it-student.MEPHI3.001\source\repos\SportShop\SportShop\obj\Debug\SportShop.Forms.LogIn.CaptchaForm.resources
+C:\Users\it-student.MEPHI3.001\source\repos\SportShop\SportShop\obj\Debug\SportShop.Forms.BaskForm.resources
